@@ -1,7 +1,7 @@
 {"success":true,"message":"","radios":
 [
 
-{"number":"1","name":"Alif Alif FM","description":"","logo":"/s135623q.webp","streamUrl":"http://www.alifaliffm.com:8800/AlifAlif.mp3","yourmuzeId":"0","state":"1"},
+{"number":"1","name":"Alif Alif FM(ألف ألف)","description":"","logo":"/s135623q.webp","streamUrl":"http://alifaliffm.com:8800/AlifAlif.mp3","yourmuzeId":"0","state":"1"},
 {"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"http://66.45.232.132:9996/listen.pls","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"Bestfriend FM","description":"","logo":"/29766.png","streamUrl":"http://178.32.62.172:8217/stream","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"KSA Quran Makkah","description":"","logo":"/s270277q.webp","streamUrl":"http://mediaserver2.islamicity.com:8000/SaudiTVArabic","yourmuzeId":"0","state":"1"},
@@ -11,7 +11,7 @@
 {"number":"8","name":"Miraath's Deutsch Radio","description":"","logo":"/4bdad5952a037a121287587a86db55f7.jpg","streamUrl":"http://radio.miraath.net:7080/stream","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"Miraath's English Radio","description":"","logo":"/4bdad5952a037a121287587a86db55f7.jpg","streamUrl":"http://radio.miraath.net:7040/live","yourmuzeId":"0","state":"1"},
 {"number":"10","name":"Miraath's Holy Quraan Radio","description":"","logo":"/3b6723df0f5c6c1b23b41b8c20379799.jpg","streamUrl":"http://178.32.57.87:7000/stream","yourmuzeId":"0","state":"1"},
-{"number":"11","name":"Mix FM","description":"","logo":"/s134738q.webp","streamUrl":"http://s2.voscast.com:11376/","yourmuzeId":"0","state":"1"},
+{"number":"11","name":"Mix FM(ميكس إف إم)","description":"","logo":"/s134738q.webp","streamUrl":"http://s2.voscast.com:11376/;","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"Quran Live FM","description":"","logo":"/s209563q.png","streamUrl":"http://radio.yaservers.com:9966/","yourmuzeId":"0","state":"1"},
 {"number":"13","name":"Quran Radio Tafsir","description":"","logo":"/c175tafsir.png","streamUrl":"http://206.72.199.179:9992/","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"Radio Islamico","description":"","logo":"/c175islamico.png","streamUrl":"http://66.45.232.134:9996/listen.pls","yourmuzeId":"0","state":"1"},
@@ -29,9 +29,9 @@
 {"number":"26","name":"Radio Sunna","description":"","logo":"/c175sona.png","streamUrl":"http://andromeda.shoutca.st:8189/stream","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"","description":"","logo":"/83351.v6.png","streamUrl":"https://sabeelradio.out.airtime.pro/sabeelradio_a","yourmuzeId":"0","state":"1"},
 {"number":"28","name":"اذاعة القرأن الكريم","description":"","logo":"/29652.png","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
-{"number":"29","name":"Radio BBC Arabic","description":"","logo":"/bbc-radio-arabic-live-online.jpg","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba?type=.mp3/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"30","name":"Ayaat TV","description":"","logo":"/new-logo1.png","streamUrl":"http://m.live.net.sa:1935/live/ayat/playlist.m3u8","yourmuzeId":"0","state":"1"},
-  
+{"number":"31","name":"radio jeddah(راديو إذاعة جدة)","description":"","logo":"/radio jeddah.jpg","streamUrl":"http://87.98.130.255:8509/stream","yourmuzeId":"0","state":"1"},
+
   
 
   

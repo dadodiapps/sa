@@ -40,8 +40,20 @@
 {"number":"38","name":"الألوكة-إذاعة الحج","description":"","logo":"/إذاعة الحج.jpg","streamUrl":"http://radio.alukah.net/hajj","yourmuzeId":"0","state":"1"},
 {"number":"39","name":"الألوكة-إذاعة اللغة العربية و علومها ","description":"","logo":"/إذاعة اللغة العربية وعلومها.jpg","streamUrl":"http://radio.alukah.net/arabiyyah","yourmuzeId":"0","state":"1"},
 {"number":"40","name":"الألوكة-إذاعة المهارات الحياتية والعلوم التربوية","description":"","logo":"/المهارات الحياتية والعلوم التربوية.png","streamUrl":"http://radio.alukah.net/maharat","yourmuzeId":"0","state":"1"},
-{"number":"41","name":"Wesal TV","description":"","logo":"/76902db5331382b4b368527bd611daff.webp","streamUrl":"http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8","yourmuzeId":"0","state":"1"},
-{"number":"42","name":"Wesal TV","description":"","logo":"/76902db5331382b4b368527bd611daff.webp","streamUrl":"http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"41","name":"الألوكة-إذاعة المرأة المسلمة","description":"","logo":"/إذاعة المرأة المسلمة.jpg","streamUrl":"http://radio.alukah.net/almarah","yourmuzeId":"0","state":"1"},
+{"number":"42","name":"الألوكة-إذاعة القرآن الكريم","description":"","logo":"/إذاعة القرآن الكريم.jpg","streamUrl":"http://radio.alukah.net/quran","yourmuzeId":"0","state":"1"},
+{"number":"43","name":"الألوكة-إذاعة السيرة النبوية","description":"","logo":"/إذاعة السيرة النبوية.jpg","streamUrl":"http://radio.alukah.net/sirah","yourmuzeId":"0","state":"1"},
+{"number":"44","name":"الألوكة-إذاعة السلوك و الأخلاق و الأدب","description":"","logo":"/السلوك و الأخلاق و الأدب.jpg","streamUrl":"http://radio.alukah.net/assuluk","yourmuzeId":"0","state":"1"},
+{"number":"45","name":"الألوكة-إذاعة التراجيم و التاريخ السيار","description":"","logo":"/التراجم والتاريخ السيار.png","streamUrl":"http://radio.alukah.net/tarajim","yourmuzeId":"0","state":"1"},
+{"number":"46","name":"الألوكة-إذاعة التوعية الإجتماعية","description":"","logo":"/إذاعة التوعية الإجتماعية.png","streamUrl":"http://radio.alukah.net/attawiyy","yourmuzeId":"0","state":"1"},
+{"number":"47","name":"الألوكة-إذاعة الدكتور خالد بن الجريسي","description":"","logo":"/الدكتور خالد بن الجريسي.jpg","streamUrl":"http://radio.alukah.net/aljeraisy","yourmuzeId":"0","state":"1"},
+{"number":"48","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"53","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"54","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
 
   
 

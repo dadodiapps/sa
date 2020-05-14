@@ -32,7 +32,7 @@
 {"number":"30","name":"Ayaat TV","description":"","logo":"/new-logo1.png","streamUrl":"http://m.live.net.sa:1935/live/ayat/playlist.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"31","name":"radio jeddah(راديو إذاعة جدة)","description":"","logo":"/radio jeddah.jpg","streamUrl":"http://87.98.130.255:8509/stream","yourmuzeId":"0","state":"1"},
 {"number":"32","name":"الألوكة-إذاعة الأدعية و الأدكار اليومية","description":"","logo":"/إذاعة الأدعية و الأدكار اليومية.jpg","streamUrl":"http://radio.alukah.net/adiyyaha","yourmuzeId":"0","state":"1"},
-{"number":"33","name":"الألوكة-إذاعة الأدب والتراث العربي","description":"","logo":"/radio jeddah.jpg","streamUrl":"http://radio.alukah.net/aladab","yourmuzeId":"0","state":"1"},
+{"number":"33","name":"الألوكة-إذاعة الأدب والتراث العربي","description":"","logo":"/إذاعة الأدب والتراث العربي.png","streamUrl":"http://radio.alukah.net/aladab","yourmuzeId":"0","state":"1"},
 {"number":"34","name":"الألوكة-إذاعة العقيدة والتوحيد","description":"","logo":"/إذاعة العقيدة والتوحيد.jpg","streamUrl":"http://radio.alukah.net/aqidah","yourmuzeId":"0","state":"1"},
 {"number":"35","name":"الألوكة-إذاعة الفكر الدعوة و الثقافية الإسلامية","description":"","logo":"/إذاعة الدعوة والثقافة الإسلامية.png","streamUrl":"http://radio.alukah.net/alfikr","yourmuzeId":"0","state":"1"},
 {"number":"36","name":"الألوكة-إذاعة الفقهية","description":"","logo":"/إذاعة الفقهية.jpg","streamUrl":"http://radio.alukah.net/fiqhiyyah","yourmuzeId":"0","state":"1"},

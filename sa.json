@@ -47,13 +47,14 @@
 {"number":"45","name":"الألوكة-إذاعة التراجيم و التاريخ السيار","description":"","logo":"/التراجم والتاريخ السيار.png","streamUrl":"http://radio.alukah.net/tarajim","yourmuzeId":"0","state":"1"},
 {"number":"46","name":"الألوكة-إذاعة التوعية الإجتماعية","description":"","logo":"/إذاعة التوعية الإجتماعية.png","streamUrl":"http://radio.alukah.net/attawiyy","yourmuzeId":"0","state":"1"},
 {"number":"47","name":"الألوكة-إذاعة الدكتور خالد بن الجريسي","description":"","logo":"/الدكتور خالد بن الجريسي.jpg","streamUrl":"http://radio.alukah.net/aljeraisy","yourmuzeId":"0","state":"1"},
-{"number":"48","name":"الألوكة-إذاعة الدكتور سعد بن عبد الله الحميد","description":"","logo":"إذاعة الدكتور سعد بن عبد الله الحميد.jpg","streamUrl":"http://radio.alukah.net/humayid","yourmuzeId":"0","state":"1"},
-{"number":"49","name":"الألوكة-إذاعة كبار العلماء","description":"","logo":"إذاعة كبار العلماء.jpg","streamUrl":"http://radio.alukah.net/ulama","yourmuzeId":"0","state":"1"},
-{"number":"50","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"51","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"52","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"53","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
-{"number":"54","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"48","name":"الألوكة-إذاعة الدكتور سعد بن عبد الله الحميد","description":"","logo":"/إذاعة الدكتور سعد بن عبد الله الحميد.jpg","streamUrl":"http://radio.alukah.net/humayid","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"الألوكة-إذاعة كبار العلماء","description":"","logo":"/إذاعة كبار العلماء.jpg","streamUrl":"http://radio.alukah.net/ulama","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"Fav radio","description":"","logo":"/Fav radio.png","streamUrl":"http://stream.favhosting.com:8109/;","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"إذاعة القرآن الكريم من مكة","description":"","logo":"/إذاعة القرآن الكريم من مكة.jpg","streamUrl":"http://66.226.10.51:8000/SaudiTVArabic","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"Quran-Islamic Tagalog(إذاعة القرآن الكريم بلغة التغالوغ الفلبينية)","description":"","logo":"/quran-Islamic Tagalog.jpg","streamUrl":"http://184.173.185.71:9930/;","yourmuzeId":"0","state":"1"},
+{"number":"53","name":"Rotana Ar-Ryad FM (إذاعة روتانا من الرياض) ran","description":"","logo":"/Rotana Ar-Ryad.jpg","streamUrl":"http://philae.shoutca.st:8114/;","yourmuzeId":"0","state":"1"},
+{"number":"54","name":"Radio Rotana Jeddah FM(إذاعة روتانا من جدة)","description":"","logo":"/Radio Rotana Jeddah.jpg","streamUrl":"http://curiosity.shoutca.st:6035/;","yourmuzeId":"0","state":"1"},
+{"number":"55","name":"Radio Sunna (إذاعة السنة)","description":"","logo":"/Radio Sunna.png","streamUrl":"http://andromeda.shoutca.st:8189/stream","yourmuzeId":"0","state":"1"},
 
   
 

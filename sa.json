@@ -2,7 +2,7 @@
 [
 
 {"number":"1","name":"Alif Alif FM(ألف ألف)","description":"","logo":"/s135623q.webp","streamUrl":"http://alifaliffm.com:8800/AlifAlif.mp3","yourmuzeId":"0","state":"1"},
-{"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"http://66.45.232.132:9996/listen.pls","yourmuzeId":"0","state":"0"},
+{"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"https://mbcwanasatv-live-v4-hls.secure.footprint.net/egress/bhandler/mbc/panoramafm4/chunklist_b764000.m3u8","yourmuzeId":"0","state":"2"},
 {"number":"3","name":"اذاعة القران الكريم من السعودية","description":"","logo":"/اذاعة القران الكريم من السعودية.jpg","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"KSA Sunnah Madinah(إذاعة السنة من المدينة)","description":"","logo":"/Sunnah Madinah.jpg","streamUrl":"http://mediaserver2.islamicity.com:8000/SaudiTVEnglish","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"Madar FM","description":"","logo":"/c175.png","streamUrl":"http://audio.madarradio.com:9000/stream/1/","yourmuzeId":"0","state":"0"},
@@ -69,8 +69,11 @@
 {"number":"402","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/skynewsarabic.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
 {"number":"403","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
 {"number":"404","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
-     
+
   
+  
+  
+
 {"number":"405","name":"إذاعة الشيخ عبد العزيز الأحمد","description":"","logo":"/الشيخ عبد العزيز الأحمد.jpg","streamUrl":"http://quraan.us:9914/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"406","name":"إذاعة القارئ الشيخ عبدالهادي أحمد كناكري","description":"","logo":"/القارئ الشيخ عبدالهادي أحمد كناكري.jpg","streamUrl":"http://live.mp3quran.net:9850/;","yourmuzeId":"0","state":"1"},
 {"number":"407","name":"إذاعة الشيخ عبد المحسن العبيكان","description":"","logo":"/الشيخ عبد المحسن العبيكان.jpg","streamUrl":"http://live.mp3quran.net:9854/;.mp3","yourmuzeId":"0","state":"1"},
@@ -167,6 +170,7 @@
 {"number":"701","name":"اذكار المساء","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"},
  
 {"number":"731","name":"صوت الإيمان","description":"","logo":"/صوت الإيمان.jpg","streamUrl":"http://www.emanlive.com:8000/;","yourmuzeId":"0","state":"1"}, 
+{"number":"734","name":"إذاعة فتاوى الشيخ ابن عثيمين","description":"","logo":"/الشيخ ابن عثيمين.jpg","streamUrl":"http://server2.quraan.us:9890/;*.mp3","yourmuzeId":"0","state":"1"}, 
 
  
 {"number":"791","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 

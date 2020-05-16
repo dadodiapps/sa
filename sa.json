@@ -10,6 +10,8 @@
 {"number":"6","name":"Madar FM","description":"","logo":"/c175.png","streamUrl":"http://audio.madarradio.com:9000/stream/1/","yourmuzeId":"0","state":"0"},
 {"number":"7","name":"Miraath Al Anbiyya(إذاعة ميرات الإنبياء)","description":"","logo":"/s137338q.png","streamUrl":"http://178.32.57.87:7000/stream","yourmuzeId":"0","state":"1"},
 {"number":"8","name":"Miraath's Deutsch Radio(إذاعة ميرات الإنبياء)","description":"","logo":"/4bdad5952a037a121287587a86db55f7.jpg","streamUrl":"http://radio.miraath.net:7060/stream","yourmuzeId":"0","state":"1"},
+{"number":"9","name":"أذاعة الرياض","description":"","logo":"/إذاعة جدة.png","streamUrl":"http://live.almgrat.com:8234/stream","yourmuzeId":"0","state":"1"},
+  
 {"number":"10","name":"Miraath's Holy Quraan Radio(إذاعة ميرات الإنبياء)","description":"","logo":"/3b6723df0f5c6c1b23b41b8c20379799.jpg","streamUrl":"http://178.32.57.87:7000/stream","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"Mix FM(ميكس إف إم)","description":"","logo":"/s134738q.webp","streamUrl":"http://s2.voscast.com:11376/;","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"Quran Live FM(القرآن الكريم مباشر)","description":"","logo":"/s209563q.png","streamUrl":"http://radio.yaservers.com:9966/","yourmuzeId":"0","state":"1"},

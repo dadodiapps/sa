@@ -23,7 +23,7 @@
 {"number":"20","name":"Wesal radio","description":"","logo":"/76902db5331382b4b368527bd611daff.webp","streamUrl":"http://live.noorlive.com:1935/wesal/wesal1/chunklist_w679384363.m3u8","yourmuzeId":"0","state":"0"},
 {"number":"22","name":"Saudi Aramco Studio 1 FM 94.1 Dharan","description":"","logo":"/c300.png","streamUrl":"http://ice31.securenetsystems.net/STUDIO1","yourmuzeId":"0","state":"1"},
 {"number":"23","name":"Saudi Aramco Studio 2 FM 101.4 Dharan","description":"","logo":"/c175two.png","streamUrl":"http://ice31.securenetsystems.net/STUDIO2","yourmuzeId":"0","state":"1"},
-{"number":"24","name":"Saudi Quran","description":"","logo":"http://quran.sr.sa/http%3A%2F%2Falquranalkareem.saudiaradio.net%2Fimg%2Ffb_ogtags%2Ffbogimg.png","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"24","name":"Saudi Quran","description":"","logo":"/saudi quran.jpg","streamUrl":"http://quraan.us:9944/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"Radio Sunna(إذاعة السنة)","description":"","logo":"/c175sona.png","streamUrl":"http://andromeda.shoutca.st:8189/stream","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"sabeel anbiyya(إذاعة سبيل الأنبياء)","description":"","logo":"/sabeel anbiyya.png","streamUrl":"https://sabeelradio.out.airtime.pro/sabeelradio_a","yourmuzeId":"0","state":"1"},
 {"number":"28","name":"اذاعة القرأن الكريم","description":"","logo":"/29652.png","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},

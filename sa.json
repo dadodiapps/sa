@@ -2,8 +2,10 @@
 [
 
 {"number":"1","name":"Alif Alif FM(ألف ألف)","description":"","logo":"/s135623q.webp","streamUrl":"http://alifaliffm.com:8800/AlifAlif.mp3","yourmuzeId":"0","state":"1"},
-{"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"https://mbcwanasatv-live-v4-hls.secure.footprint.net/egress/bhandler/mbc/panoramafm4/chunklist_b764000.m3u8","yourmuzeId":"0","state":"2"},
+{"number":"2","name":"Allahu Akbar Radio","description":"","logo":"/c1751.png","streamUrl":"https://mbcwanasatv-live-v4-hls.secure.fjgtrbdvunklist_b764000.m3u8","yourmuzeId":"0","state":"0"},
 {"number":"3","name":"اذاعة القران الكريم من السعودية","description":"","logo":"/اذاعة القران الكريم من السعودية.jpg","streamUrl":"http://live2.badrshfaqah.sa:8027/stream","yourmuzeId":"0","state":"1"},
+{"number":"4","name":"Panorama FM ksa","description":"","logo":"/Panorama FM ksa.jpg","streamUrl":"https://mbcwanasatv-live-v4-hls.secure.footprint.net/egress/bhandler/mbc/panoramafm4/chunklist_b764000.m3u8","yourmuzeId":"0","state":"1"},
+  
 {"number":"5","name":"KSA Sunnah Madinah(إذاعة السنة من المدينة)","description":"","logo":"/Sunnah Madinah.jpg","streamUrl":"http://mediaserver2.islamicity.com:8000/SaudiTVEnglish","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"Madar FM","description":"","logo":"/c175.png","streamUrl":"http://audio.madarradio.com:9000/stream/1/","yourmuzeId":"0","state":"0"},
 {"number":"7","name":"Miraath Al Anbiyya(إذاعة ميرات الإنبياء)","description":"","logo":"/s137338q.png","streamUrl":"http://178.32.57.87:7000/stream","yourmuzeId":"0","state":"1"},
@@ -52,7 +54,7 @@
 {"number":"58","name":"UFM ksa(الإذاعة الرياضية)","description":"","logo":"/UFM KSA.jpg","streamUrl":"http://69.61.26.75:8000/index.html;audio.mp3","yourmuzeId":"0","state":"1"},
 {"number":"59","name":"Mix FM(إذاعة ميكس إف إم)","description":"","logo":"/Mix FM.png","streamUrl":"http://s2.voscast.com:11376/;","yourmuzeId":"0","state":"1"},
 {"number":"60","name":"Bestfriend FM","description":"","logo":"/Bestfriend FM.png","streamUrl":"http://178.32.62.172:8217/stream/;","yourmuzeId":"0","state":"1"},
-{"number":"61","name":"Miraath's English radio(إذاعة ميرات الإنبياء)","description":"","logo":"/Miraath's English.png","streamUrl":"http://radio.miraath.net:7010/stream","yourmuzeId":"0","state":"2"},
+{"number":"61","name":"Miraath's English radio(إذاعة ميرات الإنبياء)","description":"","logo":"/Miraath's English.png","streamUrl":"http://radio.miraath.net:7010/stream","yourmuzeId":"0","state":"1"},
 {"number":"63","name":"الألوكة-إذاعة التفسير","description":"","logo":"/إذاعة التفسير.jpg","streamUrl":"http://radio.alukah.net/tafsir","yourmuzeId":"0","state":"1"},
 {"number":"64","name":"Quraan Radio Tafsir(إذاعة تفسير القرآن الكريم)","description":"","logo":"/Quraan Radio Tafsir.png","streamUrl":"http://206.72.199.179:9992/;","yourmuzeId":"0","state":"1"},
 {"number":"65","name":"الألوكة-إذاعة علوم القرآن","description":"","logo":"/إذاعة علوم القرآن.jpg","streamUrl":"http://radio.alukah.net/ulumalquran","yourmuzeId":"0","state":"1"},

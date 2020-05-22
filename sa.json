@@ -15,7 +15,7 @@
 {"number":"10","name":"Miraath's Holy Quraan Radio(إذاعة ميرات الإنبياء)","description":"","logo":"/3b6723df0f5c6c1b23b41b8c20379799.jpg","streamUrl":"http://178.32.57.87:7000/stream","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"Mix FM(ميكس إف إم)","description":"","logo":"/s134738q.webp","streamUrl":"http://s2.voscast.com:11376/;","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"Quran Live FM(القرآن الكريم مباشر)","description":"","logo":"/s209563q.png","streamUrl":"http://radio.yaservers.com:9966/","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"إذاعة نداء الإسلام","description":"","logo":"/إذاعة نداء الإسلام.jpg","streamUrl":"http://87.98.130.255:8348/stream","yourmuzeId":"0","state":"2"},
+{"number":"13","name":"إذاعة نداء الإسلام","description":"","logo":"/إذاعة نداء الإسلام.jpg","streamUrl":"http://87.98.130.255:8348/stream","yourmuzeId":"0","state":"1"},
   
 {"number":"14","name":"Radio Islamico","description":"","logo":"/c175islamico.png","streamUrl":"http://66.45.232.134:9300/;","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"Radio Izlam English","description":"","logo":"/c175izlam.png","streamUrl":"http://66.45.232.133:9998/;stream.nsv","yourmuzeId":"0","state":"1"},
